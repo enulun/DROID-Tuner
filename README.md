@@ -3,6 +3,9 @@
 # 2023-04-01
 # Version 2: only uses one P2B8 and Master.
 #
+Simpel use-demo here:
+https://www.youtube.com/watch?v=cK_c9PCnQp0
+#
 # DROID-tuner is a patch for DROID that can help to tune a VCO up to mid octave 6, maybe around E6
 # Mordax Data has been used to confirm correct pitches for the DROID patch.
 # It works well with sine, triangle and saw.
