@@ -49,9 +49,9 @@
 # The lights in the Master Panel symolize the following differences:
 #
 #  -0.3%  -0.2%  +0.2%  +0.3%
-#  -0.5%                +0.5%
+#  -0.5%  -----  -----  +0.5%
 #  --------------------------
-#  -1.0%                +1.0%
+#  -1.0%  -----  -----  +1.0%
 #  -2.0%  -3.0%  +3.0%  +2.0%
 #
 #  In the figure over, if instead of blue/red leds, both the two mid-top leds (marked +/-0.2%)
